@@ -1,0 +1,2 @@
+# Serviços locais (Airflow, Kafka, MCP) entram aqui quando o repositório precisar.
+services: {}
